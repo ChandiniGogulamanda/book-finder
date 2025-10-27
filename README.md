@@ -31,9 +31,13 @@ Book Cover Image Format:
 
 ## Folder Structure
 src
+
 ├─ App.js
+
 ├─ App.css
+
 ├─ index.js
+
 └─ index.css
 
 ## How to Run Locally
